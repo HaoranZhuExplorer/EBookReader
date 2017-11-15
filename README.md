@@ -11,7 +11,7 @@ It now uses Alibaba's speech synthetise api to help me do the computer speech jo
 I'm working super hard this days. It's a hard time for me.
 
 # Development process
-step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2
+step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2.
 step2: get context from pdf file(done, using PDFBox).
 step3: use Alibaba's speech synthetise api with the context and generate a wav format music.(done)
 step4: play the music generated above(done).
