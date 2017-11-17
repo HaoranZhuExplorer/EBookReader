@@ -16,7 +16,7 @@ The EbookReader now supports two main formats: PDF and Epub. I prefer the user t
 
 ##To process Epub format file:
 
-step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2(done).
+step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2(some issues here).
 
 step2: get context from Epub file(done, using Epublib). (done)
 
@@ -31,7 +31,7 @@ step6: construct all the features to an initial product.(not done)
 
 ##To process PDF format file:
 
-step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2(done).
+step1: cause it's based on Alibaba's online tts service, step1 will check the connectivity of the internet; if the network is ok, move to step2(some issues here).
 
 step2: get context from pdf file(done, using PDFBox).
 
@@ -40,3 +40,7 @@ step3: use Alibaba's speech synthetise api with the context and generate a wav f
 step4: play the music generated above(done).
 
 step5: construct all the features to an initial product.(not done)
+
+
+#Issues
+??????????

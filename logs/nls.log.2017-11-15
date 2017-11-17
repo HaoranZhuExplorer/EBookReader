@@ -1,0 +1,86 @@
+2017 十一月 15 10:38:57,172 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 10:39:02,296 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 10:39:02,445 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510713542445, Handshake latency is: 5264
+2017 十一月 15 10:39:03,820 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 10:40:11,819 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 10:40:16,906 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 10:40:17,088 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510713617088, Handshake latency is: 5261
+2017 十一月 15 10:40:17,695 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 10:57:15,283 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 10:57:20,392 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 10:57:20,543 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510714640543, Handshake latency is: 5251
+2017 十一月 15 10:57:21,001 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 10:57:44,518 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 10:57:49,609 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 10:57:49,763 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510714669763, Handshake latency is: 5237
+2017 十一月 15 10:57:50,376 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:35:15,978 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:35:21,089 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:35:21,255 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510716921254, Handshake latency is: 5268
+2017 十一月 15 11:35:21,725 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:40:11,516 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:40:16,602 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:40:16,830 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717216830, Handshake latency is: 5308
+2017 十一月 15 11:41:04,706 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:41:09,831 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:41:09,985 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717269985, Handshake latency is: 5272
+2017 十一月 15 11:41:10,234 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:41:24,249 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:41:29,343 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:41:29,489 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717289489, Handshake latency is: 5233
+2017 十一月 15 11:41:29,826 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:42:07,986 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:42:13,087 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:42:13,259 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717333259, Handshake latency is: 5264
+2017 十一月 15 11:42:13,721 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:43:13,102 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:43:18,211 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:43:18,369 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717398369, Handshake latency is: 5257
+2017 十一月 15 11:43:18,996 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:43:32,888 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:43:37,988 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:43:38,128 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717418128, Handshake latency is: 5233
+2017 十一月 15 11:43:39,798 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:44:14,076 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:44:19,188 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:44:19,388 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717459388, Handshake latency is: 5299
+2017 十一月 15 11:44:21,294 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 11:46:30,416 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 11:46:35,568 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 11:46:35,764 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510717595764, Handshake latency is: 5339
+2017 十一月 15 11:52:16,992 -  INFO [main] (LongTtsDemo.java:171) - NlsDemo <app-key> <Id> <Secret>
+2017 十一月 15 11:52:32,676 -  INFO [main] (LongTtsDemo.java:171) - NlsDemo <app-key> <Id> <Secret>
+2017 十一月 15 11:55:00,090 -  INFO [main] (LongTtsDemo.java:172) - NlsDemo <app-key> <Id> <Secret>
+2017 十一月 15 13:46:03,923 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 13:46:09,058 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 13:46:09,240 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510724769240, Handshake latency is: 5308
+2017 十一月 15 13:46:09,317 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 13:46:38,593 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 13:46:43,699 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 13:46:43,885 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510724803885, Handshake latency is: 5283
+2017 十一月 15 13:46:44,443 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:02:23,842 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:02:28,957 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:02:29,131 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510732949131, Handshake latency is: 5282
+2017 十一月 15 16:02:32,261 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:03:54,720 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:04:12,790 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:04:17,891 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:04:18,041 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510733058041, Handshake latency is: 5244
+2017 十一月 15 16:04:20,298 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:09:05,972 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:09:11,125 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:09:11,303 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510733351303, Handshake latency is: 5322
+2017 十一月 15 16:09:13,523 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:12:40,370 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:12:45,462 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:12:45,654 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510733565654, Handshake latency is: 5277
+2017 十一月 15 16:12:48,674 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:14:19,170 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:14:24,320 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:14:24,469 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510733664469, Handshake latency is: 5291
+2017 十一月 15 16:14:25,302 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
+2017 十一月 15 16:14:25,870 -  INFO [main] (NlsClient.java:107) - use url: wss://nls.dataapi.aliyun.com:443
+2017 十一月 15 16:14:30,979 -  INFO [main] (NlsClient.java:138) - No audio input, send finish signal.
+2017 十一月 15 16:14:31,161 -  INFO [New I/O worker #1] (NlsSession.java:191) - End Handshake at:1510733671161, Handshake latency is: 5279
+2017 十一月 15 16:14:32,147 -  INFO [New I/O worker #1] (NlsClientHandler.java:91) - receive colse frame
