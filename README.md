@@ -18,7 +18,7 @@ Input: an ebook's filepath
 Output: audio file of the ebook.
 
 # Why I develop the project?
-It uses Ali's tts api which is better than the local os's tts engine in Chinese speacking.
+It uses Ali's tts api which is better than the local os's tts engine in Chinese speaking.
 
 # Development Architecture
 The EbookReader now supports two main formats: PDF and Epub. I prefer the user to use the epub format. Cause some books of the PDF format are now clear in structure and thus hard to be processed by computer.
