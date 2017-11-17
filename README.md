@@ -7,12 +7,21 @@ This days are pretty hard for me. I got Conjunctivitis these days and my eyes ar
 My life are pretty hard in many different ways these days.
 In order to fuck this situation, I start to develop this project which can read ebooks(first version will mainly focus on PDF format) in a computer synthetise accent. It can help me read ebooks while my eyes are too tired to do anything.
 
-It now uses Baidu's speech synthetise api to help me do the computer speech job soundly.
+It now uses Ali's speech synthetise api to help me do the computer speech job soundly.
 I'm working super hard this days. It's a hard time for me.
+
+# Usage
+It helps people who has trouble with their eyesight or people whose eye are too tired to read. It also helps people who are too shy to make a presentation :)(you write the text, then I help you read it!)
+
+Input: an ebook's filepath
+
+Output: audio file of the ebook.
+
+# Why I develop the project?
+It uses Ali's tts api which is better than the local os's tts engine in Chinese speacking.
 
 # Development Architecture
 The EbookReader now supports two main formats: PDF and Epub. I prefer the user to use the epub format. Cause some books of the PDF format are now clear in structure and thus hard to be processed by computer.
-
 
 ##To process Epub format file:
 
@@ -43,4 +52,4 @@ step5: construct all the features to an initial product.(not done)
 
 
 #Issues
-The network checking module may has some issues.
+??????????
