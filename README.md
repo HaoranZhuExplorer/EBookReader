@@ -1,5 +1,5 @@
 # EBookReader
-A ebook reader uses Baidu Speech synthetise api to read ebook resources with a relatively natural accent
+A ebook reader uses Alibaba's Speech synthetise api to read ebook resources with a relatively natural accent
 
 # Developing background
 This days are pretty hard for me. I got Conjunctivitis these days and my eyes are always too tired to read books or write code.(After that, when I am writing this ReadMe file, I realize how I love writing codes. Two or three hours just pasts so quickly, theory of relativity, hum!) I can only be focuesed to read books or work on computers for only  3 or 4 hours per day.
