@@ -50,6 +50,3 @@ step4: play the music generated above(done).
 
 step5: construct all the features to an initial product.(not done)
 
-
-#Issues
-??????????
